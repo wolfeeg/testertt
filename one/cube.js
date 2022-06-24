@@ -4,7 +4,7 @@
 // CubeCloud users by default.  Please contact support if you need them
 // enabled for your account.  You are still allowed to require
 // @cubejs-backend/*-driver packages.
-//66
+//77
 
 module.exports = {
 };
